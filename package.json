@@ -1,0 +1,25 @@
+{
+  "name": "qv-esl-lib",
+  "version": "1.0.0",
+  "description": "QualVoice ESL",
+  "author": "Vasiakh Nair",
+  "private": false,
+  "license": "MIT",
+  "dependencies": {
+    "eventemitter2": "^6.4.4",
+    "typescript": "^4.4.2",
+    "uuid": "^8.3.2",
+    "xml2js": "^0.4.23"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tecnomic-systems/qv-esl-lib.git"
+  },
+  "keywords": [
+    "qv-esl"
+  ],
+  "bugs": {
+    "url": "https://github.com/tecnomic-systems/qv-esl-lib/issues"
+  },
+  "homepage": "https://github.com/tecnomic-systems/qv-esl-lib#readme"
+}

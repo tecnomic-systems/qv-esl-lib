@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "call-details.js",
+  "sourceRoot": "",
+  "sources": [
+    "../../qv-interface-lib/call-details.ts"
+  ],
+  "names": [],
+  "mappings": ""
+}
