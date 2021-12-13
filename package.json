@@ -1,6 +1,6 @@
 {
   "name": "qv-esl-lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "QualVoice ESL",
   "author": "Vasiakh Nair",
   "private": false,
@@ -11,6 +11,11 @@
     "uuid": "^8.3.2",
     "xml2js": "^0.4.23"
   },
+  "main": "./dist/index",
+  "files": [
+    "dist/**/*"
+  ],
+  "types": "./lib/index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tecnomic-systems/qv-esl-lib.git"
